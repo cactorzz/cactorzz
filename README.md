@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Hector👋
 
 - 🌱 Estudando engenharia de software
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/cactorzz">
