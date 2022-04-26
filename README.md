@@ -4,7 +4,7 @@
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
-  <a href="https://github.com/euhectorjimenez">
+  <a href="https://github.com/cactorzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euhectorjimenez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euhectorjimenez&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -22,6 +22,6 @@
    <a href="https://www.twitter.com/cactorz/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:euhectorjimenez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-   ![Snake animation](https://github.com/euHectorJimenez/euHectorJimenez/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/cactorzz/cactorzz/blob/output/github-contribution-grid-snake.svg)
   
   </div>
