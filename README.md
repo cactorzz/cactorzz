@@ -2,12 +2,14 @@
 <h1>Ola, eu sou desenvolvedor (oﾟvﾟ)ノ.</h1>
 </div>
 
+##
+
 <div align="center">
   <a href="https://github.com/cactorzz">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
+  
 <div style="display: inline_block"><br>
 <img align="center" alt="Cactor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Cactor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
