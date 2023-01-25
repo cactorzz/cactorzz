@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/cactorzz">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
