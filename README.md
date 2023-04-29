@@ -1,15 +1,17 @@
 <div align="center">
-<h1>Ola, eu sou desenvolvedor (oﾟvﾟ)ノ.</h1>
+<h1>Olá, eu sou desenvolvedor (oﾟvﾟ)ノ.</h1>
 </div>
 
 <div align="center">
   <a href="https://github.com/cactorzz">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Cactor-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cactor-TS" height="40" width="40" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png">
+  <img align="center" alt="Cactor-React" height="40" width="40" src="https://icon-library.com/images/react-icon/react-icon-29.jpg">
   <img align="center" alt="Cactor-NodeJS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
   <img align="center" alt="Cactor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cactor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
