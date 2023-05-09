@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/cactorzz">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cactorzz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactorzz&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align=center style="display: inline_block"><br>
   <img align="center" alt="Cactor-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cactor-TS" height="40" width="40" src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png">
   <img align="center" alt="Cactor-React" height="40" width="40" src="https://icon-library.com/images/react-icon/react-icon-29.jpg">
